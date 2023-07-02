@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Laur
+ *
+ */
+module LearningProject {
+}
